@@ -1,5 +1,6 @@
 (define-library (cyclone dummy-test-package)
-  (import (scheme base))
+  (import (scheme base)
+          (scheme write))
   (export test-me)
   (begin
     (define (test-me . args)
