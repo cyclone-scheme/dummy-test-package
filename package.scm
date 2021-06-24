@@ -1,6 +1,6 @@
 (package
  (name dummy-test-package)
- (version 0.1)
+ (version "0.1.2")
  (license "BSD")
  (authors "Arthur Maciel")
  (maintainers "Arthur Maciel")
